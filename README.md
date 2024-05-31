@@ -6,9 +6,9 @@ libreSpeech is a language platform for both written and spoken language to check
 
 libreSpeech is a language platform for both written and spoken language to check it's grammar, syntax and semantic
 
-Copyright (C) 2023 Masscollabs Services
+Copyright (C) 2023-2024 Masscollabs Services
 
-Copyright (C) 2023 masslang and contributors
+Copyright (C) 2023-2024 masslang and contributors
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published
